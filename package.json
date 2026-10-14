@@ -1,0 +1,13 @@
+{
+  "name": "pioneer-delivery-algorithms",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Greedy scheduling algorithms for Pioneer Delivery Company",
+  "scripts": {
+    "test": "node test_pioneer_delivery.js",
+    "task-a": "node pioneer_delivery.js A sample_deliveries.txt",
+    "task-b": "node pioneer_delivery.js B sample_deliveries.txt",
+    "task-c": "node pioneer_delivery.js C sample_deliveries.txt",
+    "task-d": "node pioneer_delivery.js D"
+  }
+}
