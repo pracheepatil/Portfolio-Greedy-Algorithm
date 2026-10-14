@@ -28,7 +28,7 @@ The repository includes the JavaScript source code, test cases, sample data, and
 
 ## Input-file format
 
-Each delivery is one line with three whitespace-separated fields:
+Each delivery is in the following format:
 
 ```text
 delivery_id start_time finish_time
@@ -40,8 +40,6 @@ Example:
 D01 10 13
 D02 2 5
 ```
-
-Blank lines and lines beginning with `#` are ignored. Times are integers, and a delivery ending at time `t` is compatible with a delivery starting at time `t`.
 
 ## instructions to run the Programme
 
