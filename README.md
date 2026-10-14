@@ -6,6 +6,19 @@ This project is written in **JavaScript** and runs with **Node.js 16 or newer**.
 
 The program uses only built-in Node.js modules and does not require external packages.
 
+# Pioneer Delivery Algorithm Portfolio - Part I
+
+This project implements greedy scheduling algorithms for Pioneer Delivery.
+
+## GitHub Repository
+
+The complete Pioneer Delivery JavaScript project is available on GitHub:
+
+[View the Pioneer Delivery Project on GitHub](https://github.com/pracheepatil/Portfolio-Greedy-Algorithm)
+
+The repository includes the JavaScript source code, test cases, sample data, and documentation.
+
+
 ## Files
 
 - `pioneer_delivery.js` - source code for Tasks A-D, input parsing, output, and a custom binary min-heap.
